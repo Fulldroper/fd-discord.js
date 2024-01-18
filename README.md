@@ -18,4 +18,4 @@ bot.on("READY", function(){
 // log messages
 bot.on("MESSAGE_CREATE", console.log)
 ```
-### [Event list](https://discord.com/developers/docs/topics/gateway#gateway-intents)
+### [Event list](https://discord.com/developers/docs/topics/gateway-events#gateway-events)
